@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Presentation at LSA 2024
+Presentation at LSA 2024 <br>
 "Where word order and object marking intersect: Differential object marking in Copala Triqui" <br>
 With Lauren Clemens and Rebecca Tollan
