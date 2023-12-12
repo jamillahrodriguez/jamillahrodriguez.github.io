@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://linguistics.unc.edu/'>UNC Chapel Hill</a>. jamillah@email.unc.edu
+subtitle: d͡ʒəˈmilə ɹɑˈdɹigɛz. <a href='https://linguistics.unc.edu/'>UNC Chapel Hill</a>. jamillah@email.unc.edu
 
 profile:
   align: right
