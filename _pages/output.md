@@ -10,7 +10,7 @@ nav_order: 1
 # Papers
 ## Journal Articles
 
-<b>Rodriguez, Jamilläh</b> and Bickmore, Lee. (2022). Cophonologies and upper-lower tone register mapping in Copala Triqui. <i>Linguistic Discover</i>, 17(2). https://doi.org/10.1349/PS1.1537-0852.A.527<br>
+<b>Rodriguez, Jamilläh</b> and Bickmore, Lee. (2022). Cophonologies and upper-lower tone register mapping in Copala Triqui. <i>Linguistic Discovery</i>, 17(2). https://doi.org/10.1349/PS1.1537-0852.A.527<br>
 
 Mkochi, Winfred, <b>Rodriguez, Jamilläh</b> and Bickmore, Lee. (2022). Phonetic and Phonological Effects of Depressor Consonants in Malawian CiTonga. <i>Nordic Journal of African Studies</i>, 31(2), 153–179. https://doi.org/10.53228/njas.v31i2.822<br>
 
