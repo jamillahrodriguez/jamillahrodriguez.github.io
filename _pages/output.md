@@ -2,7 +2,7 @@
 layout: page
 permalink: /output/
 title: output
-description: Papers, handouts, slides, posters, etc.
+description:
 nav: true
 nav_order: 1
 ---
