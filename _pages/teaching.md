@@ -7,6 +7,23 @@ nav: true
 nav_order: 5
 ---
 
+# Spring 2025
+
+## LING 460 Making Sense of Big Data: Textual Analysis with R
+Undergraduate<br>
+<br>
+This course covers methods for working with textual data (corpora, databases, etc.) that include data cleaning techniques, graphing, statistical analysis, web-scraping, and categorization models in R. Students will complete their own data project by the end of the course.
+
+## LING 573 Linguistic Field Methods I
+Mixed Undergraduate/Graduate<br>
+Language of study Spring 2024: Chatino (Otomanguean; Mexico)<br>
+<br>
+This course is designed to give students experience working in a "fieldwork" setting with a native speaker of an understudied language. We will be working closely with a native speaker consultant to document and analyze various aspects of their grammar. Students present a final project at the end of the semester, which can feature a research paper or a community-centered creative project. <br>
+
+# Fall 2024
+
+On Leave.
+
 # Spring 2024
 
 ## LING 101 Introduction to Language
@@ -19,8 +36,6 @@ Mixed Undergraduate/Graduate<br>
 Language of study Spring 2024: Chatino (Otomanguean; Mexico)<br>
 <br>
 This course is designed to give students experience working in a "fieldwork" setting with a native speaker of an understudied language. We will be working closely with a native speaker consultant to document and analyze various aspects of their grammar. Students present a final project at the end of the semester, which can feature a research paper or a community-centered creative project. <br>
-
-<img src="assets/img/poster.png" alt="HTML5 Icon" style="width:128px;height:128px;">
 
 # Other courses
 
