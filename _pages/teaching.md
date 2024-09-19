@@ -32,7 +32,7 @@ Undergraduate<br>
 <br>
 This course introduces students to phonological phenomena and data from many languages, including English. Throughout the semester, students frequently examine data sets to gainhands-on experience with phonological analysis. Students are also introduced to several phonological theories and asked to think critically about how these theories apply to phonological data, why speakers produce the sound patterns that they produce, and account for the similarities and the differences in sound patterns across the languages of the world.
 
-## LING 401 Language and Computers
+## LING 401 Introduction to Computational Linguistics
 Mixed Undergraduate/Graduate<br>
 <br>
 Natural language processing and computational linguistics are rapidly growing fields of investigation. In this course, students learn the basics of programming in Python to solve linguistic problems. No prior programming knowledge is required or assumed. Students look at how natural language is processed from a computational standpoint, as well as some larger theories behind natural language processing. All students participate in a final presentation of a topic of their choosing (with consultation from the instructor) that applies the Python programming basics we learn throughout the semester to a linguistic problem or data set.
