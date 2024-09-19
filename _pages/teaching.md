@@ -16,28 +16,16 @@ This course covers methods for working with textual data (corpora, databases, et
 
 ## LING 573 Linguistic Field Methods I
 Mixed Undergraduate/Graduate<br>
-Language of study Spring 2024: Chatino (Otomanguean; Mexico)<br>
+Language of study for Spring 2025: Chatino (Otomanguean; Mexico)<br>
 <br>
 This course is designed to give students experience working in a "fieldwork" setting with a native speaker of an understudied language. We will be working closely with a native speaker consultant to document and analyze various aspects of their grammar. Students present a final project at the end of the semester, which can feature a research paper or a community-centered creative project. <br>
 
-# Fall 2024
-
-On Leave.
-
-# Spring 2024
+# Other courses
 
 ## LING 101 Introduction to Language
 Undergraduate<br>
 <br>
 This course is an introduction to the field of linguistics. Students study the formal analysis of human language, which includes the studies of sounds (phonetics and phonology), words (morphology), sentences (syntax), meaning (semantics and pragmatics), language acquisition, language use in society (sociolinguistics), and language change over time (historical linguistics). We also touch upon topics involving animal communication, computational linguistics, language documentation/revitalization, and anthropological linguistics. Throughout the semester, students  have several opportunities to explore how linguistics is used across disciplines and the careers possible within linguistics.
-
-## LING 573 Linguistic Field Methods I
-Mixed Undergraduate/Graduate<br>
-Language of study Spring 2024: Chatino (Otomanguean; Mexico)<br>
-<br>
-This course is designed to give students experience working in a "fieldwork" setting with a native speaker of an understudied language. We will be working closely with a native speaker consultant to document and analyze various aspects of their grammar. Students present a final project at the end of the semester, which can feature a research paper or a community-centered creative project. <br>
-
-# Other courses
 
 ## LING 200 Phonology
 Undergraduate<br>
