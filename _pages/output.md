@@ -33,15 +33,15 @@ Lauren Clemens & <b>Jamilläh Rodriguez</b>. Descenso tonal y laformación de co
 
 Román Vidal López, Monica de Jesús Ramírez, Lauren Clemens, <b>Jamilläh Rodriguez</b>, Michael Stoop and George Aaron Broadwell. Multilingual language documentation in the Copala Triqui diaspora. LSA Summer Institute Symposium on Language Research in Diaspora Communities, University of California, Davis (LRDC). [Slides]<br>
 
-<b>Jamilläh Rodriguez</b>. Syllabic Size Restrictions on Verb Reduplication in Brazilian Portuguese. 44th Annual Meeting of the Berkeley Linguistics Society (BLS 44). <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_579e8bcdfadb4dbead7b43847ae7bcf2.pdf">[[Slides]]</a><br>
+<b>Jamilläh Rodriguez</b>. Syllabic Size Restrictions on Verb Reduplication in Brazilian Portuguese. 44th Annual Meeting of the Berkeley Linguistics Society (BLS 44). <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_579e8bcdfadb4dbead7b43847ae7bcf2.pdf">[Slides]</a><br>
 
 # Posters
 
-<b>Jamilläh Rodriguez</b> & Gean Damulakis. Acceptability judgments and the null parse in Brazilian Portuguese verb reduplication. Annual Meeting on Phonology (AMP 2020). [PDF]
+<b>Jamilläh Rodriguez</b> & Gean Damulakis. Acceptability judgments and the null parse in Brazilian Portuguese verb reduplication. Annual Meeting on Phonology (AMP 2020). <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_75fa2233eb894d708ed036965b21f9ca.pdf">[Poster]</a><br>
 
-<b>Jamilläh Rodriguez</b> & Lauren Clemens. Tone overlay in Copala Triqui: Nominal compounds and other syntactic domains. Annual Meeting on Phonology (AMP 2019). [PDF]
+<b>Jamilläh Rodriguez</b> & Lauren Clemens. Tone overlay in Copala Triqui: Nominal compounds and other syntactic domains. Annual Meeting on Phonology (AMP 2019). <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_0fcec063bc4b4beaa660e1c5c505bfdc.pdf">[Poster]</a><br>
 
-Lee Bickmore, Winfred Mkochi, & <b>Jamilläh Rodriguez</b>. Depressor Consonants in Malawian CiTonga: Phonetic or Phonological? Annual Meeting on Phonology (AMP 2019).  [PDF]
+Lee Bickmore, Winfred Mkochi, & <b>Jamilläh Rodriguez</b>. Depressor Consonants in Malawian CiTonga: Phonetic or Phonological? Annual Meeting on Phonology (AMP 2019). <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_125900d3ae3b4963b41b330b43a529b7.pdf">[Poster]</a><br>
 
-<b>Jamilläh Rodriguez</b>. Vowel Lengthening and the Syntax-Phonology Interface in Malawian CiTonga. 43rd Annual Penn Linguistics Conference (PLC 43). [PDF]
+<b>Jamilläh Rodriguez</b>. Vowel Lengthening and the Syntax-Phonology Interface in Malawian CiTonga. 43rd Annual Penn Linguistics Conference (PLC 43). <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_896d878f2e6847278eccd255d649eb29.pdf">[Poster]</a><br>
 
