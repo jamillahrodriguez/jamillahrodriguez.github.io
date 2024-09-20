@@ -16,13 +16,20 @@
       year: 2021
       description:
         - Linguistic Anthropology
-        - Thesis : “The syntax and phonology of grammatical tone in Copala Triqui”
+        - <b>Thesis</b>:| “The syntax and phonology of grammatical tone in Copala Triqui”
     - title: M.A.
       institution: Stony Brook University
       year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Linguistics
+        - <b>Thesis</b>:| “Syllabic Size Restrictions on Verb Reduplication in Brazilian Portuguese”
+    - title: B.A.
+      institution: Stony Brook University
+      year: 2015
+      description:
+        - Linguistics
+        - Minor in Korean Studies
+        - Magna Cum Laude
 
 - title: Experience
   type: time_table
