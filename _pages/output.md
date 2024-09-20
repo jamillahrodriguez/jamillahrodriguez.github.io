@@ -31,9 +31,9 @@ Lee Bickmore, Winfred Mkochi & <b>Jamilläh Rodriguez</b>. Depressor Consonant E
 
 Lauren Clemens & <b>Jamilläh Rodriguez</b>. Descenso tonal y laformación de compuestos nominales en el triqui bajo. Congreso de Idiomas Indígenas de Latinoamérica (CIILA IX). <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_c7a4c1f68e184f5eafce46179f47accf.pdf">[Spanish Handout]</a> <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_ea3e59dd81204bfabf14e6a66a8dc42a.pdf">[English Handout]</a><br>
 
-Román Vidal López, Monica de Jesús Ramírez, Lauren Clemens, <b>Jamilläh Rodriguez</b>, Michael Stoop and George Aaron Broadwell. Multilingual language documentation in the Copala Triqui diaspora. LSA Summer Institute Symposium on Language Research in Diaspora Communities, University of California, Davis (LRDC). [Slides]
+Román Vidal López, Monica de Jesús Ramírez, Lauren Clemens, <b>Jamilläh Rodriguez</b>, Michael Stoop and George Aaron Broadwell. Multilingual language documentation in the Copala Triqui diaspora. LSA Summer Institute Symposium on Language Research in Diaspora Communities, University of California, Davis (LRDC). [Slides]<br>
 
-<b>Jamilläh Rodriguez</b>. Syllabic Size Restrictions on Verb Reduplication in Brazilian Portuguese. 44th Annual Meeting of the Berkeley Linguistics Society (BLS 44). [Slides]
+<b>Jamilläh Rodriguez</b>. Syllabic Size Restrictions on Verb Reduplication in Brazilian Portuguese. 44th Annual Meeting of the Berkeley Linguistics Society (BLS 44). <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_579e8bcdfadb4dbead7b43847ae7bcf2.pdf">[[Slides]]</a><br>
 
 # Posters
 
