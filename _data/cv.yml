@@ -1,19 +1,19 @@
-- title: General Information
+- title: Contact Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Dr. Jamilläh Rodriguez
+    - name: Email
+      value: jamillah@email.unc.edu
+    - name: Office
+      value: Smith 302, UNC Chapel Hill
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D.
+      institution: State University of New York at Albany
+      year: 2021
       description:
         - Description 1.
         - Description 2.
@@ -21,7 +21,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
+    - title: M.A.
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
       description:
