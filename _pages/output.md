@@ -25,7 +25,7 @@ Mkochi, W., <b>Rodriguez, J.</b> and Bickmore, L. (2022). Phonetic and Phonologi
 
 # Handouts & Slides
 
-<b>Lee Bickmore, Winfred Mkochi & <b>Jamilläh Rodriguez</b>. Depressor Consonant Effects in Malawian CiTonga: Phonetic or Phonological? <i>The 8th International Conference on Bantu Languages (Bantu 8)</i>. University of Essex. <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_efc53c103ed54faf96ff17520706cae4.pdf">[Handout]</a><br>
+Lee Bickmore, Winfred Mkochi & <b>Jamilläh Rodriguez</b>. Depressor Consonant Effects in Malawian CiTonga: Phonetic or Phonological? <i>The 8th International Conference on Bantu Languages (Bantu 8)</i>. University of Essex. <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_efc53c103ed54faf96ff17520706cae4.pdf">[Handout]</a><br>
 
 Jamilläh Rodriguez & Lee Bickmore. Cophonologies and upper-lower tone register mapping in Copala Triqui. The Society for the Study of the Indigenous Languages of the Americas (SSILA 2021). <a href="https://d4ab0dac-3e2f-4f19-8555-d34e71ac2042.filesusr.com/ugd/80a847_9d08dcdc063b4bc99840d9f2580360f6.pdf">[Slides]</a><br> 
 
