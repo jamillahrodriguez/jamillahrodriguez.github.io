@@ -20,6 +20,6 @@ social: false  # includes social icons at the bottom of the page
 
 I am an Assistant Professor in the Department of Linguistics at the University of North Carolina at Chapel Hill.
 
-My research revolves around the phonology of indigenous and endangered languages, particularly in Mesoamerica. Most of my fieldwork is with diaspora communities of a languages indigenous to Oaxaca, Mexico. I am especially interested in computational and experimental phonology, as well as the syntax-phonology interface.
+My research revolves around the phonology of indigenous and endangered languages, particularly in Mesoamerica. Most of my fieldwork is with diaspora communities of a languages indigenous to Oaxaca, Mexico. I am especially interested in computational and experimental phonology, natural language processing, and the syntax-phonology interface.
 
 Outside of academia, I enjoy tabletop games, knitting and crocheting, and spending time with my family.
