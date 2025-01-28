@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 Paper published in Masha Polinsky's Festchrift! <br>
-[I'm an inline-style link](https://www.google.com) <br>
+[Focus and word order in Ch’ol: A production study](https://escholarship.org/uc/item/9370x4p9) <br>
 With Lauren Clemens, Jessica Coon, and Morelia Vázquez
