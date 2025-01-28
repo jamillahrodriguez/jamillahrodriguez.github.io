@@ -5,9 +5,9 @@ inline: true
 related_posts: false
 ---
 
+Presentation (for teens): "How ChatGPT was made and how to use LLMs"
 Museum of Life and Science, Durham, NC <br>
 6:00pm-7:00pm <br>
-Presentation (for teens): "How ChatGPT was made and how to use LLMs"
 
 ---
 layout: post
